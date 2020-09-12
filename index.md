@@ -1,12 +1,9 @@
-Hello 
+## Hello World 
 
-from Covid `preABR` time. 
+from Covid era & `pre ABR` Elmitt. 
 
-## this will be bold
- 
-& here is the [bird](https://twitter.com/elmitte) if you want to hear more!
-
-<img src=https://imgur.com/YnAPiLM.jpg width="100px">
+**yet, as Bold as ever!**
 
 
--Elmitt
+
+<img src=https://i.imgur.com/kj6mgIR.jpg width="500px">
