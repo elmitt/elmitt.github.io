@@ -1,4 +1,4 @@
-# Starting this blog with...embeding images in Jupyter style notebooks 
+# Starting this blog with...embedding images in Jupyter style notebooks 
 
 Here are a few ways I know:
 
