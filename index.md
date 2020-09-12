@@ -4,6 +4,4 @@ from Covid era & `pre ABR` Elmitt.
 
 **yet, as Bold as ever!**
 
-
-
-<img src=https://i.imgur.com/kj6mgIR.jpg width="300px">
+[Imgur](https://imgur.com/kj6mgIR)
