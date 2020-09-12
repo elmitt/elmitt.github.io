@@ -6,4 +6,4 @@ from Covid era & `pre ABR` Elmitt.
 
 
 
-<img src=https://i.imgur.com/kj6mgIR.jpg width="500px">
+<img src=https://i.imgur.com/kj6mgIR.jpg width="300px">
