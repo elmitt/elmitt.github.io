@@ -1,7 +1,12 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello 
 
-![Image of fast.ai logo](images/logo.png)
+from Covid `preABR` time. 
 
-## This is a title
+## this will be bold
+ 
+& here is the [bird](https://twitter.com/elmitte) if you want to hear more!
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+<img src=https://imgur.com/YnAPiLM.jpg width="100px">
+
+
+-Elmitt
