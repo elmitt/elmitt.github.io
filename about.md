@@ -1,6 +1,6 @@
 # About
 
-Here to explore.
+Here to play and explore.
 
 -Elmitt
 
