@@ -1,6 +1,6 @@
-## Hello World 
+## Hello New World 
 
-from COVID-19 era & `pre ABR exam` Elmitt, yet as **BOLD** as ever!
+still from COVID-19 era but now `post ABR exam` Elmitt, & still as **BOLD** as ever!
 
 
 ![](https://i.imgur.com/Xv9KV4n.jpg)
